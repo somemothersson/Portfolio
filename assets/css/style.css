@@ -8,3 +8,32 @@
 #5d5a61
 #120d0b
 #805f50 */
+
+/* font-family: 'Pragati Narrow', sans-serif;
+font-family: 'Monoton', cursive;
+font-family: 'Fugaz One', cursive; */
+#jumbo {
+    background-image: linear-gradient(#4c4c4c, #6a6e79);
+    /* color: #120d0b */
+}
+#name {
+    font-family: 'Monoton', cursive;
+    /* font-family: 'Fugaz One', cursive; */
+    /* font-family: 'Pragati Narrow', sans-serif; */
+    color: #805f50;
+    text-shadow: 2px 1px #120d0b;
+    font-size: 65px
+    /* -webkit-animation: glow 1s ease-in-out infinite alternate; */
+    /* -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate; */
+
+}
+ 
+
+#desc {
+   
+  font-family: 'Fugaz One', cursive;
+    color: #805f50;
+    text-shadow: 2px 2px #120d0b;
+    font-size: 50px;
+}
