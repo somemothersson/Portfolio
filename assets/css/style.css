@@ -37,3 +37,6 @@ font-family: 'Fugaz One', cursive; */
     text-shadow: 2px 2px #120d0b;
     font-size: 50px;
 }
+p , h3{
+    text-align: center;
+}
