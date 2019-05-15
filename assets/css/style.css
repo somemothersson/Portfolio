@@ -17,13 +17,16 @@ font-family: 'Carrois Gothic SC', sans-serif; */
     /* background-image: linear-gradient(#4c4c4c, #6a6e79); */
     /* color: #120d0b */
     background-color: #fff;
+    padding: 0px;
 }
 h1{
     font-family: 'Carrois Gothic SC', sans-serif;
     margin-bottom: 0px;
 }
 
-
+.row {
+    margin-bottom:0px !important; 
+}
 #desc {
    
   font-family: 'Fugaz One', cursive;
@@ -36,7 +39,19 @@ h1{
     background-color: #fff !important;
     
 }
+h1{
+    margin-bottom:0px !important; 
+}
 h3{
     text-align: center;
     font-family: 'Rubik Mono One', sans-serif;
+    margin-bottom:0px !important; 
+}
+.data {
+    background-image: url(/assets/images/mmoa.jpg);
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    height: 500px;
+
 }
