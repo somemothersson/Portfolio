@@ -6,7 +6,7 @@ $(".porto").hide()
     $("#portfolio").on("click", function () {
         console.log("clicked")
     
-            // $(".about").hide()
+            $(".about").hide()
             $(".porto").slideDown()
     
     
