@@ -1,22 +1,23 @@
-var live = "about";
-// hide()
-$(".porto").hide()
+// var live = "about";
+// // hide()
+// event.preventDefault()
+// $(".porto").hide()
 
     
-    $("#portfolio").on("click", function () {
-        console.log("clicked")
+//     $("#portfolio").on("click", function () {
+//         console.log("clicked")
     
-            $(".about").hide()
-            $(".porto").slideDown()
+//             $(".about").hide()
+//             $(".porto").slideDown()
     
     
-    });
-    $("#about").on("click", function () {
-        console.log("clicked")
-        $(".porto").hide()
-        $(".about").slideDown()
+//     });
+//     $("#about").on("click", function () {
+//         console.log("clicked")
+//         $(".porto").hide()
+//         $(".about").slideDown()
     
-    });
+//     });
 
 
 
