@@ -23,6 +23,12 @@ h1{
     font-family: 'Carrois Gothic SC', sans-serif;
     margin-bottom: 0px;
 }
+h2{
+  font-family: 'Carrois Gothic SC', sans-serif;
+  color: #fff;
+  text-align: center;
+
+}
 
 .row {
     margin-bottom:0px !important; 
@@ -89,7 +95,7 @@ p {
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover; 
-    height: 500px;
+    height: 600px;
     /* opacity: 0.5; */
 
 }
