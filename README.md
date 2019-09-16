@@ -2,8 +2,7 @@
 
 ### Overview
 
-I wanted my site to have a bit of the feel of my musical passion and the design is derrived from the most iconic and best designed Blue Note Record. Specifially, my design is an 
-homage to one of my favorite album's["Out to Lunch," by Eric Dolphy.](public/assets/images/EricDolphy_OutToLunch_cover.jpg)
+I wanted my site to have a bit of the feel of my musical passion. Therefore, the Full Width design and dimensions are aimed at creating a website which looks like the cover of an LP. I designed the style and feel from derrived from the the very Iconic Blue Note Records !["Out to Lunch," by Eric Dolphy.](public/assets/images/EricDolphy_OutToLunch_cover.jpg)
 
 #### Design
 
