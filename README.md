@@ -6,7 +6,7 @@ I wanted my site to have a bit of the feel of my musical passion. Therefore, the
 
 !["Out to Lunch," by Eric Dolphy.](public/assets/images/EricDolphy_OutToLunch_cover.jpg)
 
-The photo used was taken at the Milwaukee Museum of Art.
+
 #### Usability
 
 The single page with simple design was chosen specifically for ease of use and 0 navigation. The Nav bar is used only as a holding pattern for external resources. 
